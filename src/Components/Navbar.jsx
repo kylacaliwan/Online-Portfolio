@@ -10,7 +10,7 @@ function Navbar({ scrollToSection }) {
   const navItems = [
     { label: "Home", section: "home" },
     { label: "About", section: "about" },
-    { label: "Projects", section: "projects" },
+    { label: "Skills", section: "skills" },
     { label: "Contact", section: "contact" },
   ];
 
